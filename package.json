@@ -1,6 +1,6 @@
 {
   "name": "node-timednonce",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Utility for creating and verifying time based nonces",
   "main": "index.js",
   "scripts": {
