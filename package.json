@@ -1,0 +1,19 @@
+{
+  "name": "node-timednonce",
+  "version": "1.0.0",
+  "description": "Utility for creating and verifying time based nonces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaserPoison/node-timednonce.git"
+  },
+  "author": "Jack Broadway",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BaserPoison/node-timednonce/issues"
+  },
+  "homepage": "https://github.com/BaserPoison/node-timednonce#readme"
+}
