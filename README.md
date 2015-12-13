@@ -13,11 +13,9 @@ npm install node-timednonce --save
 ```js
 var nonceHandler = require(node-timednonce);
 
-=/=
-var nonce = nonceHanlder.create("secret", 100);
-//Returns the nonce ready to send
-var valid = nonceHandler.verify("secret", nonce);
-//Will return true otherwise return object with status and message
+
+var nonce = nonceHandler.create("secret", 100); //Returns the nonce ready to send
+var valid = nonceHandler.verify("secret", nonce); //Will return true otherwise return object with status and message
 ```
 ## Tests
 	
